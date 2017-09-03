@@ -99,3 +99,11 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+# Emacs
+\#*\#
+*.elc
+.\#*
+.projectile
+auto-save-list
+tramp
